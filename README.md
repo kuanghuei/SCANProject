@@ -1,4 +1,4 @@
-[Kuang-Huei Lee](https://scholar.google.com/citations?user=rE7-N30AAAAJ&hl)<sup>1</sup>, [Xi Chen](https://sites.google.com/site/xichenstephen/)<sup>1</sup>, [Gang Hua](https://www.microsoft.com/en-us/research/people/ganghua/)<sup>1</sup>, Houdong Hu<sup>1</sup>, [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ)<sup>2</sup>\*<br>
+[Kuang-Huei Lee](https://kuanghuei.github.io)<sup>1</sup>, [Xi Chen](https://sites.google.com/site/xichenstephen/)<sup>1</sup>, [Gang Hua](https://www.microsoft.com/en-us/research/people/ganghua/)<sup>1</sup>, Houdong Hu<sup>1</sup>, [Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ)<sup>2</sup>\*<br>
 <sup>1</sup> Microsoft AI and Research, <sup>2</sup> JD AI Research
 (* Work performed while working at Microsoft)
 
