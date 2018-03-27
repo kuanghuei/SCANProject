@@ -12,23 +12,23 @@ In this paper, we study the problem of image-text matching. Inferring the latent
 
 
 ### Infer the latent alignments between language and vision
-An example of image-text matching showing attended image regions with respect to each word in the sentence. The brightness represents the attention strength, which considers the importance of both regions and words estimated by our model. This example shows that our model can infer the alignments between words and the corresponding objects/stuffs/attributes in the image (“bike” and “dog” are objects; “sidewalk” and “building” are stuffs; “red” is an attribute.)
+An example of image-text matching showing attended image regions with respect to each word in the sentence. The brightness represents the attention strength, which considers the importance of both regions and words estimated by our model. This example shows that our model can infer the alignments between words and the corresponding objects/stuffs/attributes in the image (“bike” and “dog” are objects; “sidewalk” and “building” are stuffs; “red” is an attribute.)<br>
 <img src='docs/figs/attnvis_bike.jpg' width="600"><br>
 
 ### Cross-modal retrieval
 
-Text retrieval for given image queries
+Text retrieval for given image queries<br>
 <img src='docs/figs/image_to_text.jpg' width="600"><br>
 
-Image retrieval for given text queries
+Image retrieval for given text queries<br>
 <img src='docs/figs/text_to_image.jpg' width="600"><br>
 
 ### Approach
 
-Image-Text Stacked Cross Attention
+Image-Text Stacked Cross Attention<br>
 <img src='docs/figs/SCAi2t.jpg' width="600"><br>
 
-Text-Image Stacked Cross Attention
+Text-Image Stacked Cross Attention<br>
 <img src='docs/figs/SCAt2i.jpg' width="600"><br>
 
 ### Code
