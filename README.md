@@ -31,7 +31,7 @@ Text-Image Stacked Cross Attention<br>
 <img src='docs/figs/SCAt2i.jpg' width="600"><br>
 
 ### Code
-Source code will be made available.
+[[ Github repo ]](https://github.com/kuanghuei/SCAN)
 
 # Citation
 
