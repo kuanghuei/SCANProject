@@ -46,4 +46,4 @@ Text-Image Stacked Cross Attention<br>
 
 # Acknowledgments
 
-The authors would like to thank [Po-Sen Huang](https://posenhuang.github.io/) and Yokesh Kumar for helping the manuscript.
+The authors would like to thank [Po-Sen Huang](https://posenhuang.github.io/) and Yokesh Kumar for helping the manuscript, and Li Huang for helping with code release.
